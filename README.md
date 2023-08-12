@@ -1,2 +1,5 @@
 # Mixamo-UE5-Mannequin-Fixer
-Blender Addon to batch fix the Mixamo animations of UE5 characters.
+This Blender addon batch fixes root bone in Mixamo animations of UE5 characters to use them in Unreal.
+
+### How to use:
+https://www.youtube.com/watch?v=MN34FQszZHc
